@@ -82,7 +82,3 @@ npm run dev
 ---
 
 Feel free to edit any part of the documentation or let me know if there are specific areas you'd like to elaborate on or modify!
-
-Sure! Here’s an updated version of the documentation, incorporating the topics you covered in the tutorial:
-
----
